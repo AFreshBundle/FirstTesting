@@ -1,0 +1,104 @@
+2024-12-12 19:19:50,072 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-12 19:20:42,963 [Worker-20: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\pom.xml
+2024-12-12 19:20:43,532 [Worker-20: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: two:two:0.0.1-SNAPSHOT @ C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\pom.xml.
+2024-12-12 19:20:44,067 [Worker-20: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /two/src/main/java
+2024-12-12 19:20:44,073 [Worker-20: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /two/src/test/java
+2024-12-12 19:20:44,886 [Worker-20: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-12-12 19:20:45,739 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:20:45,740 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:20:45,741 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:20:45,741 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:29:39,482 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-12 19:29:42,391 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:29:42,392 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:29:42,393 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:29:42,394 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:30:34,670 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: two:two:0.0.1-SNAPSHOT @ C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\pom.xml.
+2024-12-12 19:30:35,007 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:30:35,007 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:30:35,010 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:30:35,010 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:30:36,626 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:30:36,626 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:30:36,627 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:30:36,627 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:30:39,921 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:30:39,922 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:30:39,923 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:30:39,923 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:31:54,179 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:31:54,179 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:31:54,181 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:31:54,181 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:32:45,767 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:32:45,768 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:32:45,770 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:32:45,771 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:37:40,830 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:37:40,830 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:37:40,831 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:37:40,831 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:38:27,758 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:38:27,758 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:38:27,759 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:38:27,759 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:49:01,191 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:49:01,191 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:49:01,196 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:49:01,197 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:49:27,272 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:49:27,273 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:49:27,274 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:49:27,275 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:49:56,894 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:49:56,894 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:49:56,895 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:49:56,895 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:50:16,396 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:50:16,396 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:50:16,397 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:50:16,397 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:52:08,796 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:52:08,796 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:52:08,797 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:52:08,797 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:57:39,244 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:57:39,244 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:57:39,245 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:57:39,245 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 19:59:03,760 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:59:03,761 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 19:59:03,761 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 19:59:03,761 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 20:00:25,966 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:00:25,967 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 20:00:25,968 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:00:25,968 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 20:07:19,150 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:07:19,151 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 20:07:19,152 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:07:19,153 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 20:09:29,107 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:09:29,107 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 20:09:29,108 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:09:29,108 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 20:09:41,218 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:09:41,218 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 20:09:41,220 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:09:41,220 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 20:10:43,772 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:10:43,773 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 20:10:43,774 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:10:43,774 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 20:13:21,455 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:13:21,455 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 20:13:21,456 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:13:21,456 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 20:14:10,318 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:14:10,318 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 20:14:10,318 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:14:10,319 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
+2024-12-12 20:17:51,181 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:17:51,181 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\main\resources
+2024-12-12 20:17:51,183 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 20:17:51,183 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dac.STUDENTSDC\Desktop\2954\SoftwareTesting\Assignments\2\two\src\test\resources
